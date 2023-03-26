@@ -3,8 +3,11 @@
 
 Code by:
 arianna.cagali@mail.polimi.it
+
 martina.fervari@mail.polimi.it
+
 mariagiovanna.latorraca@mail.polimi.it
+
 
 This repository contains the files used for the evaluation of the UncertainPy library. 
 In particular, the Progetto_analisi_Uncertinpy file which contains the code in which we utilize the UncertainPy library to
